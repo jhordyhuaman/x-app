@@ -1,0 +1,4 @@
+flask
+python
+Flask-SQLAlchemy
+python-dateutil
